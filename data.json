@@ -73,7 +73,7 @@
         "title": "Online Thrift Shop",
         "domain": "onlinethrift.shop",
         "link": "https://onlinethrift.shop",
-        "visible": true,
+        "visible": false,
         "category": "marketplace",
         "description": "Marketplace of CC0 digital products.",
         "pricing": {
