@@ -1,114 +1,122 @@
 {
-  "main_businesses": [
-    {
-      "title": "GoFork",
-      "domain": "gofork.lol",
-      "link": "https://gofork.lol",
-      "category": "boilerplate",
-      "visible": false,
-      "price": {
-        "type": "onetime",
-        "amount": 119
+  "main_businesses": {
+    "title": "Core Businesses",
+    "description": "My primary digital products and data services",
+    "items": [
+      {
+        "title": "GoFork",
+        "domain": "gofork.lol",
+        "link": "https://gofork.lol",
+        "category": "boilerplate",
+        "visible": false,
+        "price": {
+          "type": "onetime",
+          "amount": 119
+        },
+        "description": "Next.js boilerplate for selling private GitHub repositories with Gumroad license verification and automatic repository access."
       },
-      "description": "Next.js boilerplate for selling private GitHub repositories with Gumroad license verification and automatic repository access."
-    },
-    {
-      "title": "Charted Data",
-      "domain": "charted.blog",
-      "link": "https://charted.blog",
-      "category": "boilerplate",
-      "visible": true,
-      "price": {
-        "type": "onetime",
-        "amount": 119
+      {
+        "title": "Charted Data",
+        "domain": "charted.blog",
+        "link": "https://charted.blog",
+        "category": "boilerplate",
+        "visible": true,
+        "price": {
+          "type": "onetime",
+          "amount": 119
+        },
+        "description": "Next.js boilerplate for creating interactive charts directly inside Markdown blogs without embeds or iframes."
       },
-      "description": "Next.js boilerplate for creating interactive charts directly inside Markdown blogs without embeds or iframes."
-    },
-    {
-      "title": "LaunchData",
-      "domain": "launchdata.lol",
-      "link": "https://launchdata.lol",
-      "category": "data",
-      "visible": true,
-      "price": {
-        "type": "onetime",
-        "amount": 119
+      {
+        "title": "LaunchData",
+        "domain": "launchdata.lol",
+        "link": "https://launchdata.lol",
+        "category": "data",
+        "visible": true,
+        "price": {
+          "type": "onetime",
+          "amount": 119
+        },
+        "description": "Curated database of newly launched products collected from Hacker News in CSV and JSON formats."
       },
-      "description": "Curated database of newly launched products collected from Hacker News in CSV and JSON formats."
-    },
-    {
-      "title": "GitData",
-      "domain": "gitdata.lol",
-      "link": "https://gitdata.lol",
-      "category": "data",
-      "visible": false,
-      "price": {
-        "type": "onetime",
-        "amount": 119
+      {
+        "title": "GitData",
+        "domain": "gitdata.lol",
+        "link": "https://gitdata.lol",
+        "category": "data",
+        "visible": false,
+        "price": {
+          "type": "onetime",
+          "amount": 119
+        },
+        "description": "Curated database of newly launched GitHub projects discovered through Hacker News with structured export files."
+      }
+    ]
+  },
+  "marketplace_businesses": {
+    "title": "Marketplace Businesses",
+    "description": "Digital product marketplaces and asset libraries",
+    "items": [
+      {
+        "title": "Online Dollar Store",
+        "domain": "onlinedollar.store",
+        "link": "https://onlinedollar.store",
+        "visible": true,
+        "category": "marketplace",
+        "description": "Marketplace of $1 digital products.",
+        "pricing": {
+          "product": 1,
+          "everything": 119
+        }
       },
-      "description": "Curated database of newly launched GitHub projects discovered through Hacker News with structured export files."
-    }
-  ],
-  "marketplace_businesses": [
-    {
-      "title": "Online Dollar Store",
-      "domain": "onlinedollar.store",
-      "link": "https://onlinedollar.store",
-      "visible": true,
-      "category": "marketplace",
-      "description": "Marketplace of $1 digital products.",
-      "pricing": {
-        "product": 1,
-        "everything": 119
+      {
+        "title": "Online Thrift Shop",
+        "domain": "onlinethrift.shop",
+        "link": "https://onlinethrift.shop",
+        "visible": true,
+        "category": "marketplace",
+        "description": "Marketplace of CC0 digital products.",
+        "pricing": {
+          "product": 3,
+          "everything": 119
+        }
+      },
+      {
+        "title": "GPUIKit",
+        "domain": "gpuikit.com",
+        "link": "https://gpuikit.com",
+        "visible": true,
+        "category": "marketplace",
+        "description": "Visual assets library with 50,000+ design assets.",
+        "pricing": {
+          "product": 5,
+          "everything": 119
+        }
+      },
+      {
+        "title": "0x3D",
+        "domain": "0x3d.shop",
+        "link": "https://0x3d.shop",
+        "visible": true,
+        "category": "marketplace",
+        "description": "3D assets and digital products marketplace.",
+        "pricing": {
+          "product": 5,
+          "everything": 119
+        }
+      },
+      {
+        "title": "ResourceBunk",
+        "domain": "resourcebunk.shop",
+        "link": "https://resourcebunk.shop",
+        "visible": true,
+        "category": "marketplace",
+        "description": "CNC design library for makers and manufacturers.",
+        "pricing": {
+          "product": 5,
+          "everything": 119
+        }
       }
-    },
-    {
-      "title": "Online Thrift Shop",
-      "domain": "onlinethrift.shop",
-      "link": "https://onlinethrift.shop",
-      "visible": false,
-      "category": "marketplace",
-      "description": "Marketplace of CC0 digital products.",
-      "pricing": {
-        "product": 3,
-        "everything": 119
-      }
-    },
-    {
-      "title": "GPUIKit",
-      "domain": "gpuikit.com",
-      "link": "https://gpuikit.com",
-      "visible": true,
-      "category": "marketplace",
-      "description": "Visual assets library with 50,000+ design assets.",
-      "pricing": {
-        "product": 5,
-        "everything": 119
-      }
-    },
-    {
-      "title": "0x3D",
-      "domain": "0x3d.shop",
-      "link": "https://0x3d.shop",
-      "visible": true,
-      "category": "marketplace",
-      "description": "3D assets and digital products marketplace.",
-      "pricing": {
-        "product": 5,
-        "everything": 119
-      }
-    },
-    {
-      "title": "ResourceBunk",
-      "domain": "resourcebunk.shop",
-      "link": "https://resourcebunk.shop",
-      "visible": true,
-      "category": "marketplace",
-      "description": "CNC design library for makers and manufacturers.",
-      "pricing": {
-        "product": 5,
-        "everything": 119
-      }
-    }
-  ]
+    ]
+  }
 }
