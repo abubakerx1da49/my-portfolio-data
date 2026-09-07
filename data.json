@@ -9,7 +9,7 @@
         "link": "https://onlinedollar.store",
         "visible": true,
         "category": "marketplace",
-        "description": "A digital marketplace where every product is priced at just $1."
+        "description": "A digital marketplace where every product is priced at just $1.",
         "pricing": {
           "product": 1,
           "everything": 119
@@ -21,7 +21,7 @@
         "link": "https://onlinethrift.shop",
         "visible": false,
         "category": "marketplace",
-        "description": "A curated marketplace for discovering and downloading commercial use digital products."
+        "description": "A curated marketplace for discovering and downloading commercial use digital products.",
         "pricing": {
           "product": 3,
           "everything": 119
@@ -33,7 +33,7 @@
         "link": "https://gpuikit.com",
         "visible": true,
         "category": "marketplace",
-        "description": "A large visual asset library featuring 50,000+ design resources for creators and developers."
+        "description": "A large visual asset library featuring 50,000+ design resources for creators and developers.",
         "pricing": {
           "product": 5,
           "everything": 119
@@ -45,7 +45,7 @@
         "link": "https://0x3d.shop",
         "visible": true,
         "category": "marketplace",
-        "description": "A marketplace for discovering and purchasing ready-to-use 3D assets and 3D digital products."
+        "description": "A marketplace for discovering and purchasing ready-to-use 3D assets and 3D digital products.",
         "pricing": {
           "product": 5,
           "everything": 119
@@ -57,7 +57,7 @@
         "link": "https://resourcebunk.shop",
         "visible": true,
         "category": "marketplace",
-        "description": "A specialized CNC design library providing ready-to-use digital designs for makers and manufacturers."
+        "description": "A specialized CNC design library providing ready-to-use digital designs for makers and manufacturers.",
         "pricing": {
           "product": 5,
           "everything": 119
@@ -129,12 +129,12 @@
         "link": "https://launchhere.lol",
         "visible": true,
         "category": "directory",
-        "description": "A product-launch platform where makers can submit projects, solve daily challenges, and earn points."
+        "description": "A product-launch platform where makers can submit projects, solve daily challenges, and earn points.",
         "pricing": {
           "product": 0,
           "everything": 0
         }
-      },
+      }
     ]
   }
 }
