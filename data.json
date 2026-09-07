@@ -1,61 +1,7 @@
 {
-  "main_businesses": {
-    "title": "Core Businesses",
-    "description": "My primary digital products and data services",
-    "items": [
-      {
-        "title": "GoFork",
-        "domain": "gofork.lol",
-        "link": "https://gofork.lol",
-        "category": "boilerplate",
-        "visible": false,
-        "price": {
-          "type": "onetime",
-          "amount": 119
-        },
-        "description": "Next.js boilerplate for selling private GitHub repositories with Gumroad license verification and automatic repository access."
-      },
-      {
-        "title": "Charted Data",
-        "domain": "charted.blog",
-        "link": "https://charted.blog",
-        "category": "boilerplate",
-        "visible": true,
-        "price": {
-          "type": "onetime",
-          "amount": 119
-        },
-        "description": "Next.js boilerplate for creating interactive charts directly inside Markdown blogs without embeds or iframes."
-      },
-      {
-        "title": "LaunchData",
-        "domain": "launchdata.lol",
-        "link": "https://launchdata.lol",
-        "category": "data",
-        "visible": true,
-        "price": {
-          "type": "onetime",
-          "amount": 119
-        },
-        "description": "Curated database of newly launched products collected from Hacker News in CSV and JSON formats."
-      },
-      {
-        "title": "GitData",
-        "domain": "gitdata.lol",
-        "link": "https://gitdata.lol",
-        "category": "data",
-        "visible": false,
-        "price": {
-          "type": "onetime",
-          "amount": 119
-        },
-        "description": "Curated database of newly launched GitHub projects discovered through Hacker News with structured export files."
-      }
-    ]
-  },
-  "marketplace_businesses": {
+    "marketplace_businesses": {
     "title": "Marketplace Businesses",
-    "description": "Digital product marketplaces and asset libraries",
+    "description": "Digital storefronts and curated libraries for selling downloadable products and creative assets.",
     "items": [
       {
         "title": "Online Dollar Store",
@@ -63,7 +9,7 @@
         "link": "https://onlinedollar.store",
         "visible": true,
         "category": "marketplace",
-        "description": "Marketplace of $1 digital products.",
+        "description": "A digital marketplace where every product is priced at just $1."
         "pricing": {
           "product": 1,
           "everything": 119
@@ -75,7 +21,7 @@
         "link": "https://onlinethrift.shop",
         "visible": false,
         "category": "marketplace",
-        "description": "Marketplace of CC0 digital products.",
+        "description": "A curated marketplace for discovering and downloading commercial use digital products."
         "pricing": {
           "product": 3,
           "everything": 119
@@ -87,7 +33,7 @@
         "link": "https://gpuikit.com",
         "visible": true,
         "category": "marketplace",
-        "description": "Visual assets library with 50,000+ design assets.",
+        "description": "A large visual asset library featuring 50,000+ design resources for creators and developers."
         "pricing": {
           "product": 5,
           "everything": 119
@@ -99,7 +45,7 @@
         "link": "https://0x3d.shop",
         "visible": true,
         "category": "marketplace",
-        "description": "3D assets and digital products marketplace.",
+        "description": "A marketplace for discovering and purchasing ready-to-use 3D assets and 3D digital products."
         "pricing": {
           "product": 5,
           "everything": 119
@@ -111,12 +57,84 @@
         "link": "https://resourcebunk.shop",
         "visible": true,
         "category": "marketplace",
-        "description": "CNC design library for makers and manufacturers.",
+        "description": "A specialized CNC design library providing ready-to-use digital designs for makers and manufacturers."
         "pricing": {
           "product": 5,
           "everything": 119
         }
       }
+    ]
+  },
+  "main_businesses": {
+    "title": "Core Products",
+    "description": "Independent digital products, developer tools, and structured data businesses.",
+    "items": [
+      {
+        "title": "GoFork",
+        "domain": "gofork.lol",
+        "link": "https://gofork.lol",
+        "category": "boilerplate",
+        "visible": false,
+        "price": {
+          "type": "onetime",
+          "amount": 119
+        },
+        "description": "A Next.js boilerplate for selling private GitHub repositories with automated license verification and repository access."
+      },
+      {
+        "title": "Charted Data",
+        "domain": "charted.blog",
+        "link": "https://charted.blog",
+        "category": "boilerplate",
+        "visible": true,
+        "price": {
+          "type": "onetime",
+          "amount": 119
+        },
+        "description": "A Next.js publishing toolkit that lets creators build interactive data visualizations directly inside Markdown content."
+      },
+      {
+        "title": "LaunchData",
+        "domain": "launchdata.lol",
+        "link": "https://launchdata.lol",
+        "category": "data",
+        "visible": true,
+        "price": {
+          "type": "onetime",
+          "amount": 119
+        },
+        "description": "A structured database of digital products launched across the web, available as ready-to-use datasets for research and analysis."
+      },
+      {
+        "title": "GitData",
+        "domain": "gitdata.lol",
+        "link": "https://gitdata.lol",
+        "category": "data",
+        "visible": false,
+        "price": {
+          "type": "onetime",
+          "amount": 119
+        },
+        "description": "A structured database of newly discovered GitHub projects, organized into machine-readable datasets for research and analysis."
+      }
+    ]
+  },
+    "community_businesses": {
+    "title": "Community Projects",
+    "description": "Experimental platforms built around participation, discovery, and community interaction.",
+    "items": [
+      {
+        "title": "Launch Here Lol",
+        "domain": "launchhere.lol",
+        "link": "https://launchhere.lol",
+        "visible": true,
+        "category": "directory",
+        "description": "A product-launch platform where makers can submit projects, solve daily challenges, and earn points."
+        "pricing": {
+          "product": 0,
+          "everything": 0
+        }
+      },
     ]
   }
 }
