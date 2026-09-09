@@ -40,9 +40,9 @@
         }
       },
       {
-        "title": "0x3D",
-        "domain": "0x3d.shop",
-        "link": "https://0x3d.shop",
+        "title": "Render Assets",
+        "domain": "renderassets.shop",
+        "link": "https://renderassets.shop",
         "visible": true,
         "category": "marketplace",
         "description": "A marketplace for discovering and purchasing ready-to-use 3D assets and 3D digital products.",
