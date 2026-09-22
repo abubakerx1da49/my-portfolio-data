@@ -1,5 +1,5 @@
 {
-    "marketplace_businesses": {
+  "marketplace_businesses": {
     "title": "Marketplace Businesses",
     "description": "Digital storefronts and curated libraries for selling downloadable products and creative assets.",
     "items": [
@@ -14,7 +14,7 @@
           "product": 1,
           "everything": 119
         }
-      }, 
+      },
       {
         "title": "Online Thrift Shop",
         "domain": "onlinethrift.shop",
@@ -131,7 +131,7 @@
       }
     ]
   },
-    "community_businesses": {
+  "community_businesses": {
     "title": "Community Projects",
     "description": "Experimental platforms built around participation, discovery, and community interaction.",
     "items": [
