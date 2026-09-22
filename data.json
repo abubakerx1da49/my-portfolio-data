@@ -1,7 +1,7 @@
 {
   "marketplace_businesses": {
-    "title": "Marketplace Businesses",
-    "description": "Digital storefronts and curated libraries for selling downloadable products and creative assets.",
+    "title": "Little Shops",
+    "description": "Digital products, assets, templates, and other useful things.",
     "items": [
       {
         "title": "Online Dollar Store",
@@ -9,21 +9,9 @@
         "link": "https://onlinedollar.store",
         "visible": true,
         "category": "marketplace",
-        "description": "A digital marketplace where every product is priced at just $1.",
+        "description": "I wanted to see how far a $1 digital store could go.",
         "pricing": {
           "product": 1,
-          "everything": 119
-        }
-      },
-      {
-        "title": "Online Thrift Shop",
-        "domain": "onlinethrift.shop",
-        "link": "https://onlinethrift.shop",
-        "visible": false,
-        "category": "marketplace",
-        "description": "A curated marketplace for html templates foe email, reports and business works.",
-        "pricing": {
-          "product": 1.99,
           "everything": 119
         }
       },
@@ -33,7 +21,7 @@
         "link": "https://renderassets.shop",
         "visible": true,
         "category": "marketplace",
-        "description": "A marketplace for discovering and purchasing ready-to-use 3D assets and 3D digital products.",
+        "description": "A small shop for ready-to-use 3D assets.",
         "pricing": {
           "product": 3,
           "everything": 119
@@ -45,7 +33,7 @@
         "link": "https://designmd.lol",
         "visible": true,
         "category": "marketplace",
-        "description": "A curated marketplace for DESIGN.md files for AI Agents to create beautiful website design.",
+        "description": "A little library of DESIGN.md instructions for coding agents.",
         "pricing": {
           "product": 3.99,
           "everything": 119
@@ -57,7 +45,7 @@
         "link": "https://gpuikit.com",
         "visible": true,
         "category": "marketplace",
-        "description": "A large visual asset library featuring 50,000+ design resources for creators and developers.",
+        "description": "I kept making visual assets, so I put 50,000+ of them in one place.",
         "pricing": {
           "product": 5,
           "everything": 119
@@ -69,7 +57,7 @@
         "link": "https://resourcebunk.shop",
         "visible": true,
         "category": "marketplace",
-        "description": "A specialized CNC design library providing ready-to-use digital designs for makers and manufacturers.",
+        "description": "Digital files for people with machines that actually make things.",
         "pricing": {
           "product": 5,
           "everything": 119
@@ -103,7 +91,7 @@
           "type": "onetime",
           "amount": 119
         },
-        "description": "A Next.js publishing toolkit that lets creators build interactive data visualizations directly inside Markdown content."
+        "description": "A blog starter for turning boring Markdown into interactive data stories."
       },
       {
         "title": "LaunchData",
