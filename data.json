@@ -26,6 +26,7 @@
           "product": 1.99,
           "everything": 119
         }
+      },
       {
         "title": "Render Assets",
         "domain": "renderassets.shop",
@@ -49,7 +50,6 @@
           "product": 3.99,
           "everything": 119
         }
-      },
       },
       {
         "title": "GPUIKit",
