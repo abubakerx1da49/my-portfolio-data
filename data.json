@@ -4,6 +4,18 @@
     "description": "Digital products, assets, templates, and other useful things.",
     "items": [
       {
+        "title": "GPUIKit",
+        "domain": "gpuikit.com",
+        "link": "https://gpuikit.com",
+        "visible": true,
+        "category": "marketplace",
+        "description": "I kept making visual assets, so I put 50,000+ of them in one place. For $0.",
+        "pricing": {
+          "product": 0,
+          "everything": 0
+        }
+      },
+      {
         "title": "Online Dollar Store",
         "domain": "onlinedollar.store",
         "link": "https://onlinedollar.store",
@@ -36,18 +48,6 @@
         "description": "A little library of DESIGN.md instructions for coding agents.",
         "pricing": {
           "product": 3.99,
-          "everything": 119
-        }
-      },
-      {
-        "title": "GPUIKit",
-        "domain": "gpuikit.com",
-        "link": "https://gpuikit.com",
-        "visible": true,
-        "category": "marketplace",
-        "description": "I kept making visual assets, so I put 50,000+ of them in one place.",
-        "pricing": {
-          "product": 5,
           "everything": 119
         }
       },
