@@ -28,6 +28,18 @@
         }
       },
       {
+        "title": "designmd.lol",
+        "domain": "designmd.lol",
+        "link": "https://designmd.lol",
+        "visible": true,
+        "category": "marketplace",
+        "description": "A little library of DESIGN.md instructions for coding agents.",
+        "pricing": {
+          "product": 1.99,
+          "everything": 119
+        }
+      },
+      {
         "title": "Render Assets",
         "domain": "renderassets.shop",
         "link": "https://renderassets.shop",
@@ -36,18 +48,6 @@
         "description": "A small shop for ready-to-use 3D assets.",
         "pricing": {
           "product": 3,
-          "everything": 119
-        }
-      },
-      {
-        "title": "designmd.lol",
-        "domain": "designmd.lol",
-        "link": "https://designmd.lol",
-        "visible": true,
-        "category": "marketplace",
-        "description": "A little library of DESIGN.md instructions for coding agents.",
-        "pricing": {
-          "product": 3.99,
           "everything": 119
         }
       },
