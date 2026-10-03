@@ -20,7 +20,7 @@
         "domain": "databook.shop",
         "link": "https://databook.shop",
         "category": "data",
-        "visible": false,
+        "visible": true,
         "pricing": {
           "product": 3,
           "everything": 119
