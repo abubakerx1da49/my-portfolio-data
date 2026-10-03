@@ -1,20 +1,62 @@
 {
+    "main_businesses": {
+    "title": "Core Products",
+    "description": "Independent digital products, developer tools, and structured data businesses.",
+    "items": [
+      {
+        "title": "GoFork",
+        "domain": "gofork.lol",
+        "link": "https://gofork.lol",
+        "category": "boilerplate",
+        "visible": false,
+        "price": {
+          "type": "onetime",
+          "amount": 119
+        },
+        "description": "A Next.js boilerplate for selling private GitHub repositories with automated license verification and repository access."
+      },
+      {
+        "title": "DataBookShop",
+        "domain": "databook.shop",
+        "link": "https://databook.shop",
+        "category": "data",
+        "visible": false,
+        "pricing": {
+          "product": 3,
+          "everything": 119
+        },
+        "description": "I got tired of doing manual research. So I started writing scrapers and structuring data into curated, searchable Data Books for builders and creators."
+      },
+      {
+        "title": "Charted Data",
+        "domain": "charted.blog",
+        "link": "https://charted.blog",
+        "category": "boilerplate",
+        "visible": true,
+        "price": {
+          "type": "onetime",
+          "amount": 119
+        },
+        "description": "A blog starter for turning boring Markdown into interactive data stories."
+      },
+      {
+        "title": "GitData",
+        "domain": "gitdata.lol",
+        "link": "https://gitdata.lol",
+        "category": "data",
+        "visible": false,
+        "price": {
+          "type": "onetime",
+          "amount": 119
+        },
+        "description": "A structured database of newly discovered GitHub projects, organized into machine-readable datasets for research and analysis."
+      }
+    ]
+  },
   "marketplace_businesses": {
     "title": "Little Shops",
     "description": "Digital products, assets, templates, and other useful things.",
     "items": [
-      {
-        "title": "GPUIKit",
-        "domain": "gpuikit.com",
-        "link": "https://gpuikit.com",
-        "visible": true,
-        "category": "marketplace",
-        "description": "I kept making visual assets, so I put 50,000+ of them in one place. For $0.",
-        "pricing": {
-          "product": 0,
-          "everything": 0
-        }
-      },
       {
         "title": "Online Dollar Store",
         "domain": "onlinedollar.store",
@@ -24,18 +66,6 @@
         "description": "I wanted to see how far a $1 digital store could go.",
         "pricing": {
           "product": 1,
-          "everything": 119
-        }
-      },
-      {
-        "title": "designmd.lol",
-        "domain": "designmd.lol",
-        "link": "https://designmd.lol",
-        "visible": true,
-        "category": "marketplace",
-        "description": "A little library of DESIGN.md instructions for coding agents.",
-        "pricing": {
-          "product": 1.99,
           "everything": 119
         }
       },
@@ -65,57 +95,34 @@
       }
     ]
   },
-  "main_businesses": {
-    "title": "Core Products",
-    "description": "Independent digital products, developer tools, and structured data businesses.",
+  "free_projects": {
+    "title": "Free Projects",
+    "description": "Open-source tools, experiments, and public resources I build to be useful, shareable, and freely available to everyone.",
     "items": [
-      {
-        "title": "GoFork",
-        "domain": "gofork.lol",
-        "link": "https://gofork.lol",
-        "category": "boilerplate",
-        "visible": false,
-        "price": {
-          "type": "onetime",
-          "amount": 119
-        },
-        "description": "A Next.js boilerplate for selling private GitHub repositories with automated license verification and repository access."
-      },
-      {
-        "title": "Charted Data",
-        "domain": "charted.blog",
-        "link": "https://charted.blog",
-        "category": "boilerplate",
+       {
+        "title": "GPUIKit",
+        "domain": "gpuikit.com",
+        "link": "https://gpuikit.com",
         "visible": true,
-        "price": {
-          "type": "onetime",
-          "amount": 119
-        },
-        "description": "A blog starter for turning boring Markdown into interactive data stories."
+        "category": "marketplace",
+        "description": "I kept making visual assets, so I put 50,000+ of them in one place. For $0.",
+        "pricing": {
+          "product": 0,
+          "everything": 0
+        }
       },
+      
       {
-        "title": "LaunchData",
-        "domain": "launchdata.lol",
-        "link": "https://launchdata.lol",
-        "category": "data",
-        "visible": false,
-        "price": {
-          "type": "onetime",
-          "amount": 119
-        },
-        "description": "A structured database of digital products launched across the web, available as ready-to-use datasets for research and analysis."
-      },
-      {
-        "title": "GitData",
-        "domain": "gitdata.lol",
-        "link": "https://gitdata.lol",
-        "category": "data",
-        "visible": false,
-        "price": {
-          "type": "onetime",
-          "amount": 119
-        },
-        "description": "A structured database of newly discovered GitHub projects, organized into machine-readable datasets for research and analysis."
+        "title": "designmd.lol",
+        "domain": "designmd.lol",
+        "link": "https://designmd.lol",
+        "visible": true,
+        "category": "marketplace",
+        "description": "A little library of DESIGN.md instructions for coding agents.",
+        "pricing": {
+          "product": 1.99,
+          "everything": 119
+        }
       }
     ]
   },
