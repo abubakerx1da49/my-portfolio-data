@@ -13,7 +13,7 @@
           "type": "onetime",
           "amount": 119
         },
-        "description": "I kept making the same repo-selling setup over and over. So I turned it into a starter that handles the boring parts for me and for anyone else building something similar."
+        "description": "A Next.js boilerplate for selling private GitHub repositories with automated license verification and repository access."
       },
       {
         "title": "DataBookShop",
@@ -25,7 +25,7 @@
           "product": 3,
           "everything": 119
         },
-        "description": "I got tired of doing manual research. So I started scraping, collecting, and organizing useful data into neat little books that are easier to browse and actually use."
+        "description": "I got tired of manual research, so I built data books that are easier to browse and actually use."
       },
       {
         "title": "Charted Data",
@@ -37,7 +37,7 @@
           "type": "onetime",
           "amount": 119
         },
-        "description": "A simple starter for turning raw Markdown into something more interactive. I wanted blog posts that feel less like text dumps and more like stories with structure."
+        "description": "A blog starter for turning Markdown into interactive data stories."
       },
       {
         "title": "GitData",
@@ -49,7 +49,7 @@
           "type": "onetime",
           "amount": 119
         },
-        "description": "I started collecting interesting GitHub projects and organizing them into a machine-readable dataset. It became a way to keep track of what is new, useful, and worth looking at."
+        "description": "A structured database of newly discovered GitHub projects, organized into datasets for research and analysis."
       }
     ]
   },
@@ -63,7 +63,7 @@
         "link": "https://onlinedollar.store",
         "visible": true,
         "category": "marketplace",
-        "description": "I wanted to see how far a simple $1 store could go. It turned into a fun test of pricing, product decisions, and how people respond to a very low-friction offer.",
+        "description": "I wanted to see how far a $1 digital store could go.",
         "pricing": {
           "product": 1,
           "everything": 119
@@ -75,7 +75,7 @@
         "link": "https://renderassets.shop",
         "visible": true,
         "category": "marketplace",
-        "description": "I kept making 3D assets and wanted a place to put them without letting them sit in folders forever. So I built a tiny shop around that.",
+        "description": "A small shop for ready-to-use 3D assets.",
         "pricing": {
           "product": 3,
           "everything": 119
@@ -87,7 +87,7 @@
         "link": "https://resourcebunk.shop",
         "visible": true,
         "category": "marketplace",
-        "description": "A place for practical digital files for people building with actual tools—print, CNC, design, production. Useful stuff, not just filler.",
+        "description": "Digital files for people with machines that actually make things.",
         "pricing": {
           "product": 5,
           "everything": 119
@@ -105,7 +105,7 @@
         "link": "https://gpuikit.com",
         "visible": true,
         "category": "assets",
-        "description": "I kept making visual assets for projects and finally decided to put all of them in one place. It became a huge little library of things I had been collecting anyway.",
+        "description": "I kept making visual assets, so I put 50,000+ of them in one place. For $0.",
         "pricing": {
           "product": 0,
           "everything": 0
@@ -117,7 +117,7 @@
         "link": "https://designmd.lol",
         "visible": true,
         "category": "tools",
-        "description": "A small library of design instructions for AI coding agents. I wanted to make prompts and design rules easier to reuse, so I put them out there with no cost.",
+        "description": "A little library of DESIGN.md instructions for coding agents.",
         "pricing": {
           "product": 0,
           "everything": 0
@@ -127,7 +127,7 @@
   },
   "community_businesses": {
     "title": "Building Together",
-    "description": "Experiments around people, participation, and building things in public. A little messy, a little fun, and meant to be shared.",
+    "description": "Experiments around people, participation, and building things in public.",
     "items": [
       {
         "title": "Launch Here Lol",
@@ -135,7 +135,7 @@
         "link": "https://launchhere.lol",
         "visible": true,
         "category": "directory",
-        "description": "A platform for makers to launch projects, solve small challenges, and keep momentum going. It grew out of the idea that building is better when people can see it and join in.",
+        "description": "A platform for makers to launch projects, solve small challenges, and keep momentum going.",
         "pricing": {
           "product": 0,
           "everything": 0
