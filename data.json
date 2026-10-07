@@ -1,46 +1,4 @@
 {
-  "main_businesses": {
-    "title": "Things I've Built",
-    "description": "The projects that took more than a weekend. Tools, templates, and data experiments I built because I needed them and kept improving them.",
-    "items": [
-      {
-        "title": "GoFork",
-        "domain": "gofork.lol",
-        "link": "https://gofork.lol",
-        "category": "boilerplate",
-        "visible": false,
-        "price": {
-          "type": "onetime",
-          "amount": 119
-        },
-        "description": "A Next.js boilerplate for selling private GitHub repositories with automated license verification and repository access."
-      },
-      {
-        "title": "DataBookShop",
-        "domain": "databook.shop",
-        "link": "https://databook.shop",
-        "category": "data",
-        "visible": true,
-        "pricing": {
-          "product": 3,
-          "everything": 119
-        },
-        "description": "I got tired of manual research, so I built data books that are easier to browse and actually use."
-      },
-      {
-        "title": "Charted Data",
-        "domain": "charted.blog",
-        "link": "https://charted.blog",
-        "category": "boilerplate",
-        "visible": true,
-        "price": {
-          "type": "onetime",
-          "amount": 119
-        },
-        "description": "A blog starter for turning Markdown into interactive data stories."
-      }
-    ]
-  },
   "marketplace_businesses": {
     "title": "Little Shops",
     "description": "Small digital experiments. A few products, a few experiments, and a lot of trying to see what feels useful enough to sell.",
@@ -70,16 +28,52 @@
         }
       },
       {
+        "title": "DataBookShop",
+        "domain": "databook.shop",
+        "link": "https://databook.shop",
+        "category": "data",
+        "visible": true,
+        "pricing": {
+          "product": 3,
+          "everything": 119
+        },
+        "description": "I got tired of manual research, so I built data books that are easier to browse and actually use."
+      },
+      {
+        "title": "Charted Data",
+        "domain": "charted.blog",
+        "link": "https://charted.blog",
+        "category": "boilerplate",
+        "visible": false,
+        "price": {
+          "type": "onetime",
+          "amount": 119
+        },
+        "description": "A blog starter for turning Markdown into interactive data stories."
+      },
+      {
         "title": "ResourceBunk",
         "domain": "resourcebunk.shop",
         "link": "https://resourcebunk.shop",
-        "visible": true,
+        "visible": false,
         "category": "marketplace",
-        "description": "Digital files for people with machines that actually make things.",
         "pricing": {
           "product": 5,
           "everything": 119
-        }
+        },
+        "description": "Digital files for people with machines that actually make things."
+      },
+      {
+        "title": "GoFork",
+        "domain": "gofork.lol",
+        "link": "https://gofork.lol",
+        "category": "boilerplate",
+        "visible": false,
+        "price": {
+          "type": "onetime",
+          "amount": 119
+        },
+        "description": "A Next.js boilerplate for selling private GitHub repositories with automated license verification and repository access."
       }
     ]
   },
