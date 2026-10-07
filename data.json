@@ -38,18 +38,6 @@
           "amount": 119
         },
         "description": "A blog starter for turning Markdown into interactive data stories."
-      },
-      {
-        "title": "GitData",
-        "domain": "gitdata.lol",
-        "link": "https://gitdata.lol",
-        "category": "data",
-        "visible": false,
-        "price": {
-          "type": "onetime",
-          "amount": 119
-        },
-        "description": "A structured database of newly discovered GitHub projects, organized into datasets for research and analysis."
       }
     ]
   },
@@ -118,24 +106,6 @@
         "visible": true,
         "category": "tools",
         "description": "A little library of DESIGN.md instructions for coding agents.",
-        "pricing": {
-          "product": 0,
-          "everything": 0
-        }
-      }
-    ]
-  },
-  "community_businesses": {
-    "title": "Building Together",
-    "description": "Experiments around people, participation, and building things in public.",
-    "items": [
-      {
-        "title": "Launch Here Lol",
-        "domain": "launchhere.lol",
-        "link": "https://launchhere.lol",
-        "visible": true,
-        "category": "directory",
-        "description": "A platform for makers to launch projects, solve small challenges, and keep momentum going.",
         "pricing": {
           "product": 0,
           "everything": 0
