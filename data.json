@@ -7,7 +7,7 @@
         "title": "Online Dollar Store",
         "domain": "onlinedollar.store",
         "link": "https://onlinedollar.store",
-        "visible": true,
+        "visible": false,
         "category": "marketplace",
         "description": "I wanted to see how far a $1 digital store could go.",
         "pricing": {
